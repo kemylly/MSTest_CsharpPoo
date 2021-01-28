@@ -1,0 +1,13 @@
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Exercicio2\Exercicio2.Domain\bin\Debug\netcoreapp3.1\Exercicio2.Domain.exe
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Exercicio2\Exercicio2.Domain\bin\Debug\netcoreapp3.1\Exercicio2.Domain.deps.json
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Exercicio2\Exercicio2.Domain\bin\Debug\netcoreapp3.1\Exercicio2.Domain.runtimeconfig.json
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Exercicio2\Exercicio2.Domain\bin\Debug\netcoreapp3.1\Exercicio2.Domain.runtimeconfig.dev.json
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Exercicio2\Exercicio2.Domain\bin\Debug\netcoreapp3.1\Exercicio2.Domain.dll
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Exercicio2\Exercicio2.Domain\bin\Debug\netcoreapp3.1\Exercicio2.Domain.pdb
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Exercicio2\Exercicio2.Domain\obj\Debug\netcoreapp3.1\Exercicio2.Domain.csprojAssemblyReference.cache
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Exercicio2\Exercicio2.Domain\obj\Debug\netcoreapp3.1\Exercicio2.Domain.AssemblyInfoInputs.cache
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Exercicio2\Exercicio2.Domain\obj\Debug\netcoreapp3.1\Exercicio2.Domain.AssemblyInfo.cs
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Exercicio2\Exercicio2.Domain\obj\Debug\netcoreapp3.1\Exercicio2.Domain.csproj.CoreCompileInputs.cache
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Exercicio2\Exercicio2.Domain\obj\Debug\netcoreapp3.1\Exercicio2.Domain.dll
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Exercicio2\Exercicio2.Domain\obj\Debug\netcoreapp3.1\Exercicio2.Domain.pdb
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Exercicio2\Exercicio2.Domain\obj\Debug\netcoreapp3.1\Exercicio2.Domain.genruntimeconfig.cache

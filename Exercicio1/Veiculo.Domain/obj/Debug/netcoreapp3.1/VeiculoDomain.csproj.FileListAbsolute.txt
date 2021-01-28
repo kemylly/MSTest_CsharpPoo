@@ -1,0 +1,13 @@
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Exercicio1\Veiculo.Domain\obj\Debug\netcoreapp3.1\VeiculoDomain.csprojAssemblyReference.cache
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Exercicio1\Veiculo.Domain\obj\Debug\netcoreapp3.1\VeiculoDomain.AssemblyInfoInputs.cache
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Exercicio1\Veiculo.Domain\obj\Debug\netcoreapp3.1\VeiculoDomain.AssemblyInfo.cs
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Exercicio1\Veiculo.Domain\obj\Debug\netcoreapp3.1\VeiculoDomain.csproj.CoreCompileInputs.cache
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Exercicio1\Veiculo.Domain\bin\Debug\netcoreapp3.1\VeiculoDomain.exe
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Exercicio1\Veiculo.Domain\bin\Debug\netcoreapp3.1\VeiculoDomain.deps.json
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Exercicio1\Veiculo.Domain\bin\Debug\netcoreapp3.1\VeiculoDomain.runtimeconfig.json
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Exercicio1\Veiculo.Domain\bin\Debug\netcoreapp3.1\VeiculoDomain.runtimeconfig.dev.json
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Exercicio1\Veiculo.Domain\bin\Debug\netcoreapp3.1\VeiculoDomain.dll
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Exercicio1\Veiculo.Domain\bin\Debug\netcoreapp3.1\VeiculoDomain.pdb
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Exercicio1\Veiculo.Domain\obj\Debug\netcoreapp3.1\VeiculoDomain.dll
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Exercicio1\Veiculo.Domain\obj\Debug\netcoreapp3.1\VeiculoDomain.pdb
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Exercicio1\Veiculo.Domain\obj\Debug\netcoreapp3.1\VeiculoDomain.genruntimeconfig.cache

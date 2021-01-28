@@ -1,0 +1,13 @@
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Exercicio3\Jogo.Domain\bin\Debug\netcoreapp3.1\Jogo.Domain.exe
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Exercicio3\Jogo.Domain\bin\Debug\netcoreapp3.1\Jogo.Domain.deps.json
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Exercicio3\Jogo.Domain\bin\Debug\netcoreapp3.1\Jogo.Domain.runtimeconfig.json
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Exercicio3\Jogo.Domain\bin\Debug\netcoreapp3.1\Jogo.Domain.runtimeconfig.dev.json
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Exercicio3\Jogo.Domain\bin\Debug\netcoreapp3.1\Jogo.Domain.dll
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Exercicio3\Jogo.Domain\bin\Debug\netcoreapp3.1\Jogo.Domain.pdb
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Exercicio3\Jogo.Domain\obj\Debug\netcoreapp3.1\Jogo.Domain.csprojAssemblyReference.cache
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Exercicio3\Jogo.Domain\obj\Debug\netcoreapp3.1\Jogo.Domain.AssemblyInfoInputs.cache
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Exercicio3\Jogo.Domain\obj\Debug\netcoreapp3.1\Jogo.Domain.AssemblyInfo.cs
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Exercicio3\Jogo.Domain\obj\Debug\netcoreapp3.1\Jogo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Exercicio3\Jogo.Domain\obj\Debug\netcoreapp3.1\Jogo.Domain.dll
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Exercicio3\Jogo.Domain\obj\Debug\netcoreapp3.1\Jogo.Domain.pdb
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Exercicio3\Jogo.Domain\obj\Debug\netcoreapp3.1\Jogo.Domain.genruntimeconfig.cache

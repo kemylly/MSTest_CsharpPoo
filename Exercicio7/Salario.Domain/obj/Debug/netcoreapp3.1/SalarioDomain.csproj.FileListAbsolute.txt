@@ -1,0 +1,13 @@
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Exercicio7\Salario.Domain\bin\Debug\netcoreapp3.1\SalarioDomain.exe
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Exercicio7\Salario.Domain\bin\Debug\netcoreapp3.1\SalarioDomain.deps.json
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Exercicio7\Salario.Domain\bin\Debug\netcoreapp3.1\SalarioDomain.runtimeconfig.json
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Exercicio7\Salario.Domain\bin\Debug\netcoreapp3.1\SalarioDomain.runtimeconfig.dev.json
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Exercicio7\Salario.Domain\bin\Debug\netcoreapp3.1\SalarioDomain.dll
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Exercicio7\Salario.Domain\bin\Debug\netcoreapp3.1\SalarioDomain.pdb
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Exercicio7\Salario.Domain\obj\Debug\netcoreapp3.1\SalarioDomain.csprojAssemblyReference.cache
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Exercicio7\Salario.Domain\obj\Debug\netcoreapp3.1\SalarioDomain.AssemblyInfoInputs.cache
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Exercicio7\Salario.Domain\obj\Debug\netcoreapp3.1\SalarioDomain.AssemblyInfo.cs
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Exercicio7\Salario.Domain\obj\Debug\netcoreapp3.1\SalarioDomain.csproj.CoreCompileInputs.cache
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Exercicio7\Salario.Domain\obj\Debug\netcoreapp3.1\SalarioDomain.dll
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Exercicio7\Salario.Domain\obj\Debug\netcoreapp3.1\SalarioDomain.pdb
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Exercicio7\Salario.Domain\obj\Debug\netcoreapp3.1\SalarioDomain.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Exercicio4\Listas.Domain\bin\Debug\netcoreapp3.1\Listas.Domain.exe
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Exercicio4\Listas.Domain\bin\Debug\netcoreapp3.1\Listas.Domain.deps.json
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Exercicio4\Listas.Domain\bin\Debug\netcoreapp3.1\Listas.Domain.runtimeconfig.json
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Exercicio4\Listas.Domain\bin\Debug\netcoreapp3.1\Listas.Domain.runtimeconfig.dev.json
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Exercicio4\Listas.Domain\bin\Debug\netcoreapp3.1\Listas.Domain.dll
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Exercicio4\Listas.Domain\bin\Debug\netcoreapp3.1\Listas.Domain.pdb
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Exercicio4\Listas.Domain\obj\Debug\netcoreapp3.1\Listas.Domain.csprojAssemblyReference.cache
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Exercicio4\Listas.Domain\obj\Debug\netcoreapp3.1\Listas.Domain.AssemblyInfoInputs.cache
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Exercicio4\Listas.Domain\obj\Debug\netcoreapp3.1\Listas.Domain.AssemblyInfo.cs
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Exercicio4\Listas.Domain\obj\Debug\netcoreapp3.1\Listas.Domain.csproj.CoreCompileInputs.cache
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Exercicio4\Listas.Domain\obj\Debug\netcoreapp3.1\Listas.Domain.dll
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Exercicio4\Listas.Domain\obj\Debug\netcoreapp3.1\Listas.Domain.pdb
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Exercicio4\Listas.Domain\obj\Debug\netcoreapp3.1\Listas.Domain.genruntimeconfig.cache

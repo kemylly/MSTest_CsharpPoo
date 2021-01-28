@@ -1,0 +1,13 @@
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Jokenpo\Jokenpo.Domain\bin\Debug\netcoreapp3.1\Jokenpo.Domain.exe
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Jokenpo\Jokenpo.Domain\bin\Debug\netcoreapp3.1\Jokenpo.Domain.deps.json
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Jokenpo\Jokenpo.Domain\bin\Debug\netcoreapp3.1\Jokenpo.Domain.runtimeconfig.json
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Jokenpo\Jokenpo.Domain\bin\Debug\netcoreapp3.1\Jokenpo.Domain.runtimeconfig.dev.json
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Jokenpo\Jokenpo.Domain\bin\Debug\netcoreapp3.1\Jokenpo.Domain.dll
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Jokenpo\Jokenpo.Domain\bin\Debug\netcoreapp3.1\Jokenpo.Domain.pdb
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Jokenpo\Jokenpo.Domain\obj\Debug\netcoreapp3.1\Jokenpo.Domain.csprojAssemblyReference.cache
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Jokenpo\Jokenpo.Domain\obj\Debug\netcoreapp3.1\Jokenpo.Domain.AssemblyInfoInputs.cache
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Jokenpo\Jokenpo.Domain\obj\Debug\netcoreapp3.1\Jokenpo.Domain.AssemblyInfo.cs
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Jokenpo\Jokenpo.Domain\obj\Debug\netcoreapp3.1\Jokenpo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Jokenpo\Jokenpo.Domain\obj\Debug\netcoreapp3.1\Jokenpo.Domain.dll
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Jokenpo\Jokenpo.Domain\obj\Debug\netcoreapp3.1\Jokenpo.Domain.pdb
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Jokenpo\Jokenpo.Domain\obj\Debug\netcoreapp3.1\Jokenpo.Domain.genruntimeconfig.cache

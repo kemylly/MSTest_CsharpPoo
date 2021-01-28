@@ -1,0 +1,13 @@
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Desafio\Estatistica.Domain\bin\Debug\netcoreapp3.1\Estatistica.Domain.exe
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Desafio\Estatistica.Domain\bin\Debug\netcoreapp3.1\Estatistica.Domain.deps.json
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Desafio\Estatistica.Domain\bin\Debug\netcoreapp3.1\Estatistica.Domain.runtimeconfig.json
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Desafio\Estatistica.Domain\bin\Debug\netcoreapp3.1\Estatistica.Domain.runtimeconfig.dev.json
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Desafio\Estatistica.Domain\bin\Debug\netcoreapp3.1\Estatistica.Domain.dll
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Desafio\Estatistica.Domain\bin\Debug\netcoreapp3.1\Estatistica.Domain.pdb
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Desafio\Estatistica.Domain\obj\Debug\netcoreapp3.1\Estatistica.Domain.csprojAssemblyReference.cache
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Desafio\Estatistica.Domain\obj\Debug\netcoreapp3.1\Estatistica.Domain.AssemblyInfoInputs.cache
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Desafio\Estatistica.Domain\obj\Debug\netcoreapp3.1\Estatistica.Domain.AssemblyInfo.cs
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Desafio\Estatistica.Domain\obj\Debug\netcoreapp3.1\Estatistica.Domain.csproj.CoreCompileInputs.cache
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Desafio\Estatistica.Domain\obj\Debug\netcoreapp3.1\Estatistica.Domain.dll
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Desafio\Estatistica.Domain\obj\Debug\netcoreapp3.1\Estatistica.Domain.pdb
+C:\Users\KYCS\OneDrive - GFT Technologies SE\Documents\desafio_tdd\Desafio\Estatistica.Domain\obj\Debug\netcoreapp3.1\Estatistica.Domain.genruntimeconfig.cache
